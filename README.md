@@ -3,10 +3,11 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="540" height="320"  /></p>
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
-
+- 🌱 I’m currently learning more about **Data Science and Machine Learning**
 - 👨‍💻 All of my projects are available at [https://drmalvavisco.github.io/](https://drmalvavisco.github.io/)
-
+- 💬 Ask me about **Computer Science, Data Science**
+- 📫 How to reach me: **luis.david.zanabria@gmail.com**
+- 📄 Know about my professional experiences on [linkedin.com](https://www.linkedin.com/in/luis-david-zanabria-ruiz-18b349191/)
 - ⚡ Fun fact **I make videos for Tik Tok and YT**
 
 <h3 align="left">Connect with me:</h3>
