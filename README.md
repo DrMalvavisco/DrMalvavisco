@@ -1,6 +1,8 @@
 <h1 align="center">Hi 🤓, I'm Luis Zanabria</h1>
 <h3 align="center">Computer Systems Engineer from Mexico</h3>
 
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="" height=""  /></p>
+
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://drmalvavisco.github.io/](https://drmalvavisco.github.io/)
