@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🤓, I'm Luis Zanabria</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px">🤓, I'm Luis Zanabria</h1>
 <h3 align="center">A passionate Computer Systems Engineer</h3>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="540" height="330"  /></p>
