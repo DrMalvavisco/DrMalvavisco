@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🤓, I'm Luis Zanabria</h1>
 <h3 align="center">A passionate Computer Systems Engineer</h3>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="560" height="360"  /></p>
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="540" height="360"  /></p>
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
