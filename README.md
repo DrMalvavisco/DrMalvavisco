@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="hello.gif" height="30px">🤓, I'm Luis Zanabria</h1>
 <h3 align="center">A passionate Computer Systems Engineer</h3>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="540" height="320"  /></p>
+<p align="center"><img src="code.gif" width="540" height="320"  /></p>
 
 - 🌱 I’m currently learning more about **Data Science and Machine Learning**
 - 👨‍💻 All of my projects are available at [https://drmalvavisco.github.io/](https://drmalvavisco.github.io/)
