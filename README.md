@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning more about **Data Science and Machine Learning**
 - 👨‍💻 All of my projects are available at [https://drmalvavisco.github.io/](https://drmalvavisco.github.io/)
 - 💬 Ask me about **Computer Science, Data Science**
-- 📫 How to reach me: **luis.david.zanabria@gmail.com**
+- 📫 How to reach me? **[Mail me!](mailto:luis.david.zanabria@gmail.com)**
 - 📄 Know about my professional experiences on [LinkedIn](https://www.linkedin.com/in/luis-david-zanabria-ruiz-18b349191/)
 - ⚡ Fun fact **I make videos for Tik Tok and YT**
 
