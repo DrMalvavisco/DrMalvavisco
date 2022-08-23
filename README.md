@@ -20,7 +20,7 @@
 
 
 <h3 align="left">Top used Languages:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=drmalvavisco&show_icons=true&locale=en&layout=compact" alt="drmalvavisco" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=drmalvavisco&show_icons=true&theme=gotham&locale=en&layout=compact" alt="drmalvavisco" /></p>
 
 <h3 align="left">My Github Stats:</h3>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=drmalvavisco&show_icons=true&theme=gotham" alt="drmalvavisco" />
